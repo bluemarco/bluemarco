@@ -1,1 +1,1 @@
-__[@Bluemarco](https://github.com/bluemarco)__ - _Full-Stack Software Engineer, Security Researcher_
+[@bluemarco](@bluemarco) — Full-Stack Software Engineer, Security Researcher 
